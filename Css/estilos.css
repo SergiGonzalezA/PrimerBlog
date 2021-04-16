@@ -1,7 +1,7 @@
 body {
 	color: #333;
 	text-align: left;
-	font-family: "Arial";
+	font-family: "Courier";
 	font-size: 16px;
 	margin: 0;
 	padding: 0;
@@ -15,6 +15,3 @@ body {
 	margin: 0 auto;
 }
 
-#container h1{
-	font-size: 20px;
-}
