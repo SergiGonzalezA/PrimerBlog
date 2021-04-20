@@ -24,6 +24,12 @@ body {
     vertical-align: middle;
 }
 
+#git {
+	
+	width: 500px;
+	height: 400px;
+}
+
 #cabecera #tagline{
 	padding: 0 0 0 1em;
     font-weight: normal;
